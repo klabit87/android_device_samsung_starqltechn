@@ -3,7 +3,7 @@
 # Inherit from samsung sdm845-common
 -include device/samsung/sdm845-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/samsung/starqlte
+DEVICE_PATH := device/samsung/starqltechn
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := starqltechn
